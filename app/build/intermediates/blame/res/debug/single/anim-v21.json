@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/khilman/Desktop/Ojeg online/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/khilman/Desktop/Ojeg online/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/nandoseptianhusni/Desktop/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/nandoseptianhusni/.android/build-cache/0a695d849d3d908d0babf0d831ef0469a5786fd1/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/nandoseptianhusni/Desktop/OjekOnlineCourse/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/nandoseptianhusni/.android/build-cache/0a695d849d3d908d0babf0d831ef0469a5786fd1/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

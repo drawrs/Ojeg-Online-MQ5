@@ -1,0 +1,7 @@
+#Wed Sep 13 05:33:44 EAT 2017
+base.0=/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df6ce12c2fe15291962d4434b29ad7931f325398
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_96b558bc64ed6d3daa0dd914d14c14ccdcddcc85/classes.dex
+base.1=/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_96b558bc64ed6d3daa0dd914d14c14ccdcddcc85
+file.0=/home/khilman/Desktop/OjekOnlineCourse/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_df6ce12c2fe15291962d4434b29ad7931f325398/classes.dex
